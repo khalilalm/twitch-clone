@@ -33,16 +33,16 @@ const Profile = () => {
                         title={'Call Me ImperialGibraltar From Now On'}
                         />
                           <RecentItem 
-                        url={'https://www.youtube.com/watch?v=ZcwI9-efSQw'}
-                        title={'Call Me ImperialGibraltar From Now On'}
+                        url={'https://www.youtube.com/watch?v=lD4ll0kuAcM'}
+                        title={'MY REACTION TO SEASON 13!!! | TSMFTX ImperialHal'}
                         />
                           <RecentItem 
-                        url={'https://www.youtube.com/watch?v=ZcwI9-efSQw'}
-                        title={'Call Me ImperialGibraltar From Now On'}
+                        url={'https://www.youtube.com/watch?v=fFh83Z-XADo'}
+                        title={'THIS IS HOW YOU GET 6K DAMAGE!!! | TSMFTX ImperialHal'}
                         />
                           <RecentItem 
-                        url={'https://www.youtube.com/watch?v=ZcwI9-efSQw'}
-                        title={'Call Me ImperialGibraltar From Now On'}
+                        url={'https://www.youtube.com/watch?v=NEW48EBlFoU'}
+                        title={'1ST PLACE LAN SCRIMS!! (Session 1) | TSMFTX ImperialHal'}
                         />
                 </div>
                 <div className="profile__categories">
