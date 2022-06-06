@@ -4,7 +4,7 @@ import './Channel.css'
 export const Channel = ({ avatar, name, followers}) => {
     return (
         <div className="channel">
-            <div className="channel details">
+            <div className="channel_details">
                 <img src={avatar} alt="avatar" />
                 <p>{name}</p>
             </div>

@@ -27,7 +27,7 @@ const Profile = () => {
 
             <div className="profile_recent">
                 <h2>Recent Broadcast</h2>
-                <div className="profile_recentItems">
+                <div className="profile__recentItems">
                     <RecentItem 
                         url={'https://www.youtube.com/watch?v=ZcwI9-efSQw'}
                         title={'Call Me ImperialGibraltar From Now On'}
@@ -44,6 +44,10 @@ const Profile = () => {
                         url={'https://www.youtube.com/watch?v=ZcwI9-efSQw'}
                         title={'Call Me ImperialGibraltar From Now On'}
                         />
+                </div>
+                <div className="profile__categories">
+                    <h2>ImperialHal's recently streamed Categories</h2>
+                    <img src="https://static-cdn.jtvnw.net/ttv-boxart/509658-188x250.jpg"></img>
                 </div>
             </div>
         </div>
